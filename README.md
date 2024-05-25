@@ -79,8 +79,4 @@ A product list in the form of SQL is included in the repo to kickstart the proje
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Sample Output
 
-![image](https://github.com/marceldavidbaroi/Krishoker Hashi/assets/159849210/e520f8c3-8d3c-477f-89e9-d5d26c63ef96)
-![image](https://github.com/marceldavidbaroi/Krishoker Hashi/assets/159849210/8ca8b6fe-3444-421d-8829-ffd41954a0c3)
-![image](https://github.com/marceldavidbaroi/Krishoker_Hashi/assets/159849210/c0c167bf-da9b-4ee1-9359-38356f287200)
